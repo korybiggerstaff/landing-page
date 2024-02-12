@@ -3,6 +3,11 @@
     margin: 0;
 }
 
+body {
+    display: flex;
+    flex-direction: column;
+}
+
 .one {
     background-color: #1f2937;
 }
@@ -10,6 +15,11 @@
 .header {
     display: flex;
     color: white;
+}
+
+ul.headerlinks {
+    display: flex;
+    list-style-type: none;
 }
 
 .two {
