@@ -6,6 +6,7 @@
 body {
     display: flex;
     flex-direction: column;
+    font-family: Helvetica;
 }
 
 .one {
@@ -14,17 +15,23 @@ body {
 
 .header {
     display: flex;
+    padding-left: 100px;
+    padding-right: 100px;
+    height: 72px;
+    align-items: center;
 }
 
 .logo {
     font-size: 48px;
     color: #f9faf8;
     margin-right: auto;
+    font-weight: 700;
 }
 
 ul.headerlinks {
     display: flex;
     list-style-type: none;
+    gap: 16px;
 }
 
 a {
