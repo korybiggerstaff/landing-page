@@ -14,7 +14,12 @@ body {
 
 .header {
     display: flex;
-    color: white;
+}
+
+.logo {
+    font-size: 48px;
+    color: #f9faf8;
+    margin-right: auto;
 }
 
 ul.headerlinks {
