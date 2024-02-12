@@ -27,6 +27,10 @@ ul.headerlinks {
     list-style-type: none;
 }
 
+a {
+    text-decoration: none;
+}
+
 .two {
     background-color: white;
 }
