@@ -162,4 +162,11 @@ a {
     padding: 8px 32px;
 }
 
+.footer {
+    display: flex;
+    background-color: #1f2937;
+    color: white;
+    font-size: 18px;
+    justify-content: center;
+    padding: 40px;
 }
