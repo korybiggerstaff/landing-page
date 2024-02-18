@@ -133,4 +133,8 @@ a {
 
 .four {
     background-color: white;
+    padding: 92px 15%;
+    display: flex;
+    flex-direction: column;
+}
 }
