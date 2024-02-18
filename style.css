@@ -115,6 +115,20 @@ a {
     flex-direction: column;
 }
 
+.quote {
+    color: #1f2937;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    margin-bottom: 16px;
+    padding-top: 92px;
+}
+
+.quotesource {
+    margin-left: auto;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 92px;
 }
 
 .four {
