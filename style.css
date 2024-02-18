@@ -44,6 +44,34 @@ a {
     color: #e5e7eb;
     font-size: 18px;
 }
+
+.herotext {
+    margin-right: auto;
+    max-width: 450px;
+}
+
+.herotext .big {
+    font-size: 48px;
+    font-weight: 900;
+    color: #f9faf8;
+}
+
+.herotext .small {
+    font-size: 18px;
+    color: #e5e7eb;
+    margin-bottom: 16px;
+}
+
+.signup {
+    background-color: #3882f6;
+    color: white;
+    font-size: 18px;
+    font-weight: 700;
+    box-shadow: none;
+    padding: 8px 32px;
+    border-radius: 10px;
+    border:0;
+    margin-bottom: 32px;
 }
 
 .two {
