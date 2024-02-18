@@ -12,6 +12,8 @@ body {
 
 .one {
     background-color: #1f2937;
+    display: flex;
+    padding: 100px 15%;
 }
 
 .header {
